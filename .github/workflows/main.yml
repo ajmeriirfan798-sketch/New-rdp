@@ -5,7 +5,7 @@ on:
 
 jobs:
   secure-rdp:
-    runs-on: windows-10
+    runs-on: windows-11
     timeout-minutes: 30600
 
     steps:
